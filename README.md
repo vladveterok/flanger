@@ -1,7 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutorial project.
+Source:
+* https://github.com/justalever/flanger/tree/master/app/assets/images
+* https://dev.to/justalever/lets-build-with-ruby-on-rails---ecommerce-music-shop-1c21
+  
 
 Things you may want to cover:
 
